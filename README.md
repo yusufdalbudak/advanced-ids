@@ -34,11 +34,7 @@ This project is an Intrusion Detection System (IDS) designed to monitor network 
    source .venv/bin/activate  # On Windows, use .venv\Scripts\activate
    ```
 
-3. **Install Dependencies:**
 
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
