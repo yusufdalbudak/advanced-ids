@@ -16,7 +16,7 @@ This project is an Intrusion Detection System (IDS) designed to monitor network 
 
 - Python 3.11 or later
 - Virtual environment (recommended)
-- Required Python packages listed in `requirements.txt`
+
 
 ### Setup
 
